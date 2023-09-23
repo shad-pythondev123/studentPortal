@@ -1,0 +1,32 @@
+#title{
+    height: 50px;
+    background-color: black;
+    color: white;
+    gap: 5px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#search{
+    width: 1126px;
+    height: 40px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+button{
+    width: 217px;
+    height: 40px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+table,th,td{
+    border: 1px solid rgb(29, 27, 27);
+    padding: 5px;
+    color: rgb(16, 10, 10);
+    background-color: rgb(248, 239, 239);
+    padding: 10px;
+    justify-content: space-between;
+    width: 1475px;
+    margin-left: 20px;
+}
